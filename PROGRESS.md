@@ -282,3 +282,4 @@
 - Multiple inventories UI (architecture ready, V2)
 - Receipt scanning (V2)
 - Generate supabase types
+- Unit mismatch and bug
